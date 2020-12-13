@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dumpvn/crazy-nodejs/issues"
   },
-  "homepage": "https://github.com/dumpvn/crazy-nodejs#readme"
+  "homepage": "https://github.com/dumpvn/crazy-nodejs#readme",
+  "dependencies": {
+    "aws-sdk": "^2.809.0"
+  }
 }
