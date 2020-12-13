@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/dumpvn/crazy-nodejs#readme",
   "dependencies": {
-    "aws-sdk": "^2.809.0"
+    "aws-sdk": "^2.809.0",
+    "bcrypt": "^5.0.0"
   }
 }

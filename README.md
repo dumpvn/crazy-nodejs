@@ -13,5 +13,7 @@ installed modules
 =================
 ```
 npm install aws-sdk
+npm install bcrypt
+
 npm install
 ```
